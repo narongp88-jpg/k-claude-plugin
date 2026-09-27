@@ -1,0 +1,12 @@
+{
+  "name": "my-claude-plugin",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "MCP server for the my-claude-plugin Claude Code plugin",
+  "main": "server.js",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.30.1",
+    "zod": "^4.6.5"
+  }
+}

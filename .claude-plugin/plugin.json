@@ -1,0 +1,11 @@
+{
+  "name": "my-claude-plugin",
+  "displayName": "My Claude Plugin",
+  "version": "0.1.0",
+  "description": "Skeleton Claude Code plugin: stub MCP server (echo tool) + example PreToolUse hook",
+  "author": {
+    "name": "narongp88"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "hooks", "skeleton"]
+}
