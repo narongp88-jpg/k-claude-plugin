@@ -1,6 +1,6 @@
 {
-  "name": "my-claude-plugin",
-  "displayName": "My Claude Plugin",
+  "name": "k-claude-plugin",
+  "displayName": "K-claude-plugin",
   "version": "0.1.0",
   "description": "Skeleton Claude Code plugin: stub MCP server (echo tool) + example PreToolUse hook",
   "author": {

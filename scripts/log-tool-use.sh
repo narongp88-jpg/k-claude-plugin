@@ -10,5 +10,5 @@ process.stdin.on("end", () => {
 });
 ' <<< "$input")"
 
-echo "[my-claude-plugin] PreToolUse: $tool_name" >&2
+echo "[k-claude-plugin] PreToolUse: $tool_name" >&2
 exit 0

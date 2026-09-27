@@ -1,5 +1,5 @@
 {
-  "my-claude-plugin-mcp": {
+  "k-claude-plugin-mcp": {
     "command": "node",
     "args": ["${CLAUDE_PLUGIN_ROOT}/server.js"]
   }
